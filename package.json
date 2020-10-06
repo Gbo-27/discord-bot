@@ -1,0 +1,37 @@
+{
+  "name": "Gbo Template",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Varedz",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.6.0",
+    "array-sort": "^1.0.0",
+    "async": "^3.2.0",
+    "axios": "^0.19.2",
+    "canvas": "^2.6.1",
+    "chokidar": "^3.4.2",
+    "colors": "^1.4.0",
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "hastebin-gen": "^2.0.5",
+    "jimp": "^0.14.0",
+    "md5": "^2.3.0",
+    "module-invalidate": "^1.0.1",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.0",
+    "os": "^0.1.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "table": "^5.4.6",
+    "twitch-get-stream": "^0.6.0"
+  }
+}
