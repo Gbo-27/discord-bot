@@ -13,4 +13,4 @@ bot.on('messages', msg=>{
     }
 })
 
-bot.login(token);
+bot.login(NzYxODUyNDU2NzkwNTIzOTA0.X3goZA.S1A_LiGC7EA4Grbo5Pcd4Wk9prk);
